@@ -1,5 +1,7 @@
 # Lease Scout
 
+https://leasescout.hyl1225.workers.dev/
+
 Lease Scout is a Codex-writing lease-deal explorer. It retrieves public offers from Leasehackr's pages, ranks them using a transparent effective-cost score, and lets shoppers filter, compare, and sanity-check offers.
 
 > Lease Scout is an independent project and is not affiliated with Leasehackr, vehicle manufacturers, or dealers. Deal details, incentives, availability, and eligibility must be confirmed with the offer source and dealer before signing.
